@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iiso Kramsu
 - 👀 I’m interest in learning new things related to SW development 
-- 🌱 I’m currently learning python and Sysml(Eclipse Papyrus)
+- 🌱 I’m currently learning Python and React native.
 
 
 <!---
