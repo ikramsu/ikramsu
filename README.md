@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iiso Kramsu
 - 👀 I’m interest in learning new things related to SW development 
-- 🌱 My main jobs are python scripting and React development for iOS and web.
+- 🌱 My main jobs are python scripting and React development for iOS,android and web.
 
 
 <!---
