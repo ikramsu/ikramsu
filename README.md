@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Iiso Kramsu<br>👀 I’m interested generally about SW development.<br>🌱 My main area is Python scripting and React development for iOS, android and Web.<br><br>
+👋 Hi, I’m @Iiso Kramsu<br>👀 I’m passionate about software development, with a broad interest in the latest technologies and trends.<br>🌱 My expertise lies in Python scripting and React development for iOS, Android, and Web applications.<br><br>
 
 
 ## 🌐 Socials:
