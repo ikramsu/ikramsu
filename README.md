@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Iiso Kramsu<br>👀 I’m passionate about software development, with a broad interest in the latest technologies and trends.<br>🌱 My expertise lies in Python and Javascript React development for Web applications, as well as React native development for iOS and Android.<br><br>
+👋 Hi, I’m @Iiso Kramsu<br>👀 I’m passionate about software development, with a broad interest in the latest technologies and trends.<br>🌱 My expertise lies in Python and Javascript/Typescript React development for Web applications, as well as React native development for iOS and Android.<br><br>
 
 
 ## 🌐 Socials:
