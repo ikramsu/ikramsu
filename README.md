@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Iiso Kramsu<br>👀  I’m passionate about software development, with a broad interest in modern technologies and innovation.<br>🌱 I specialize in Python and JavaScript/TypeScript, building web applications with React/Next.js and Vite, mobile apps with React Native, and backend services with FastAPI, Django, and Flask. I also work with Firebase, custom API integrations, CLI tools, and automation solutions..<br><br>
+👋 Hi, I’m @Iiso Kramsu<br>👀  I’m passionate about software development, with a broad interest in modern technologies and innovation.<br>🌱 I specialize in Python and JavaScript/TypeScript, building web applications with React/Next.js and Vite, mobile apps with React Native, and backend services with FastAPI, Django, and Flask. I also work with Firebase, custom API integrations, CLI tools, and automation solutions.<br><br>
 
 
 ## 🌐 Socials:
